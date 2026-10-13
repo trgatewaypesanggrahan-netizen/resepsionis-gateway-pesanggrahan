@@ -1,0 +1,6 @@
+{
+  "name": "Buku Tamu Digital Gateway Pesanggrahan",
+  "description": "Aplikasi buku tamu digital modern dan terintegrasi untuk Gateway Pesanggrahan dengan tanda tangan digital, QR code check-in/out, scanner kamera, dan export laporan Excel/PDF.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
